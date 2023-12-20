@@ -13,3 +13,4 @@ F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.dll
 F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\refint\Application.dll
 F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.pdb
 F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\ref\Application.dll
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.sourcelink.json

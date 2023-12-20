@@ -149,3 +149,4 @@ F:\Bit Sprits\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManageme
 F:\Bit Sprits\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
 F:\Bit Sprits\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
 F:\Bit Sprits\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+F:\Bit Sprits\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.sourcelink.json

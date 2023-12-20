@@ -10,3 +10,4 @@ F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.dll
 F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
 F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.pdb
 F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\ref\Domain.dll
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.sourcelink.json
