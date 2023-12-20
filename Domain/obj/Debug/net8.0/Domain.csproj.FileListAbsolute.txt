@@ -1,0 +1,12 @@
+F:\Bit Sprits\TaskManagement\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\Bit Sprits\TaskManagement\Domain\bin\Debug\net8.0\Domain.dll
+F:\Bit Sprits\TaskManagement\Domain\bin\Debug\net8.0\Domain.pdb
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.dll
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\Domain.pdb
+F:\Bit Sprits\TaskManagement\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,15 @@
+F:\Bit Sprits\TaskManagement\Application\bin\Debug\net8.0\Application.deps.json
+F:\Bit Sprits\TaskManagement\Application\bin\Debug\net8.0\Application.dll
+F:\Bit Sprits\TaskManagement\Application\bin\Debug\net8.0\Application.pdb
+F:\Bit Sprits\TaskManagement\Application\bin\Debug\net8.0\Domain.dll
+F:\Bit Sprits\TaskManagement\Application\bin\Debug\net8.0\Domain.pdb
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.dll
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\refint\Application.dll
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\Application.pdb
+F:\Bit Sprits\TaskManagement\Application\obj\Debug\net8.0\ref\Application.dll
